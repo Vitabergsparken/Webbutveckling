@@ -1,0 +1,42 @@
+.bodycss{
+    background-color: rgb(112, 112, 112);
+}
+
+.grön{
+    background-color: rgb(0, 255, 0);
+    height: 200px;
+    width: 200px;
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: 20px solid darkgreen;
+    
+}
+
+.gul{
+    background-color: rgb(255, 251, 0);
+    height: 200px;
+    width: 200px;
+    display:flex;
+    border: 20px solid rgb(153, 164, 0);
+    
+}
+
+.röd{
+    background-color: rgb(223, 0, 0);
+    height: 200px;
+    width: 200px;
+    display:flex;
+    border: 20px solid rgb(100, 0, 0);
+    
+}
+
+.insidagrön{
+    height: 50%;
+    width: 100%;
+    color: red;
+    display: flex;
+    position: relative;
+
+
+}
