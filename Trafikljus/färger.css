@@ -1,0 +1,50 @@
+.body{
+    background-color: gray;
+}
+
+
+.box1{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border: 20px solid darkgreen;
+    display: flex;
+    flex: center;
+    position  
+}
+
+.indsida1 {
+    display:flex;
+    flex:center;
+    width: 80%;
+    height: 80%;
+   
+background-color: purple;
+position: relative;
+}
+
+
+.box2{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 20px solid chocolate;
+    display: flex;
+    flex: center;
+    position
+}
+.indsida2 {
+
+}
+.indsida3 {
+
+}
+.box3{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 20px solid chocolate;
+    display: flex;
+    flex: center;
+    position
+}

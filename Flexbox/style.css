@@ -1,0 +1,32 @@
+.box{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.size {
+    width: 100px;
+    height: 100px;
+}
+
+.veryInner {
+    width: 50%;
+    height: 50%;
+    background-color: white;
+}
+
+.inner{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.inner2 {
+    background-color: rgb(131, 160, 95);
+}
+.inner3 {
+background-color: blueviolet;
+}
